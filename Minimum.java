@@ -6,7 +6,7 @@ public class Minimum{
             if (arr[i] < min)
                 min = arr[i];
 }
-                System.out.println(min);
+                RSystem.out.println(min);
 
     }
 }
